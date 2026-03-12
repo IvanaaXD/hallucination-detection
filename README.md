@@ -86,5 +86,3 @@ python visualize.py
 ```
 
 This will open a Matplotlib window displaying a 2D t-SNE scatter plot of the most frequent words in the vocabulary, showcasing their semantic clustering.
-
-```
