@@ -1,4 +1,4 @@
-# hallucination-detection
+# HALLUCINATION DETECTION
 
 # Word2Vec in Pure NumPy (Skip-gram with Negative Sampling)
 
